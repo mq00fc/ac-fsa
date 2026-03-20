@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>AcFsa</AssemblyName>
+    <RootNamespace>AcFsa</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>mq00fc</Authors>
+    <Description>AC自动机敏感词过滤库，支持动态加载词库，高效替换敏感词为 * 符号</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mq00fc/ac-fsa</PackageProjectUrl>
+  </PropertyGroup>
+</Project>
